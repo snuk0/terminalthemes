@@ -1,2 +1,2 @@
 # terminalthemes
-[test](https://left-anger.surge.sh)
+[test](https://polite-part.surge.sh)
